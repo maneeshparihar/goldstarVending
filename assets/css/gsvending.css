@@ -1,0 +1,14 @@
+body {
+
+  color: #fff;
+}
+
+
+.carousel, .slide,
+.carousel .carousel-inner,
+.carousel .carousel-item,
+.carousel .carousel-item img,
+.carousel .carousel-control {
+  border-radius: .25rem;
+  overflow: hidden;
+}
